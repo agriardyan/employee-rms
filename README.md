@@ -4,7 +4,7 @@ This is final project for the training. I use Angular 2 for frontend, and Spring
 You can found the frontend in employee-rms-frontend, and the backend in employee-rms-backend folder.
 
 # Build
-You can use npm to build the frontend. And the Maven for building the the backend. By the way, I put SQL dumpfile in sql folder.
+You can use NPM `npm install` to build the frontend. And the Maven `mvn install` for building the the backend. By the way, I put SQL dumpfile in sql folder.
 
 # Usage
 Configure your database with application-dev.properties, located in employee-rms-backend\src\main\resources. Change it accordingly.
